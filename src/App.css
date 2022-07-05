@@ -1,0 +1,10 @@
+.textContainer,
+.bookContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: keep-all; /*this stops the word breaking*/
+}
